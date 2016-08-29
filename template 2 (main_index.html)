@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+  <title>JS Bin</title>
+</head>
+<body>
+  <div id="container">
+    <div class="profile-cards">
+      <div class="card">
+      <div class="profile-image">
+        <img src="http://loremflickr.com/100/100/person" alt="">
+      </div>
+      <div class="profile-info">
+        <h2>Mr. Roboto</h2>
+        <p>Call center agent, Code connoiseur, Pentium follower</p>
+        <a href="#">Ping me!</a>
+      </div>
+      <div class="profile-slider">
+        <ul>
+          <li></li>
+          <li class="active"></li>
+          <li></li>
+        </ul>
+      </div>
+    </div>
+      <div class="card">
+      <div class="profile-image">
+        <img src="http://loremflickr.com/100/100/person" alt="">
+      </div>
+      <div class="profile-info">
+        <h2>Mr. Roboto</h2>
+        <p>Call center agent, Code connoiseur, Pentium follower</p>
+        <a href="#">Ping me!</a>
+      </div>
+      <div class="profile-slider">
+        <ul>
+          <li></li>
+          <li class="active"></li>
+          <li></li>
+        </ul>
+      </div>
+    </div>
+    </div>
+  </div>
+</body>
+</html>
